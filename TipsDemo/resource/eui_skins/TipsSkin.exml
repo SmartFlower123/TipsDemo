@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TipsSkin" width="400" height="400" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg_Img" source="KUANG_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Image id="ok_Btn" source="OKBTN_png" x="46" y="297"/>
+	<e:Image id="close_Btn" source="NOBTN_png" x="253" y="297"/>
+	<e:Label id="title_Lab" text="标题" x="0" y="0" anchorOffsetX="0" width="400" anchorOffsetY="0" height="75" textAlign="center" verticalAlign="middle"/>
+	<e:Label id="value_Lab" text="提示内容ddjlddlfjld" anchorOffsetX="0" width="400" anchorOffsetY="0" height="214" fontFamily="Arial" size="25" textAlign="left" textColor="0xebf4eb" verticalAlign="justify" left="0" horizontalCenter="0" y="0"/>
+</e:Skin>
